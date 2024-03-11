@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# Getting Started with CryptoView App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Getting Started
+## Running application
+In order to run this application: 
+1. copy github repository in visual studio code,
+2. open terminal and run in project folder
+    ### `npm install` or `npm install --force` 
+3. ### `npm start`
+(Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.)
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
